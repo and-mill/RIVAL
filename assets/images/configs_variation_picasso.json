@@ -1,0 +1,18 @@
+{
+    "image_root": "assets/images/references_0",
+    "prompt_postfix": ", best quality, extremely detailed",
+    "neg_prompt": ", monochrome, lowres, bad anatomy, worst quality, low quality",
+    "image_exps": 
+    [
+        {
+            "prompt": "picasso painting",
+            "image_path": "picasso.jpg",
+            "exp_name": "picasso_clean"
+        },
+        {
+            "prompt": "picasso painting",
+            "image_path": "picasso-protected-intensity-DEFAULT-V2.jpg",
+            "exp_name": "picasso_glazed"
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "image_root": "assets/images/references_liliyth",
+    "prompt_postfix": ", best quality, extremely detailed",
+    "neg_prompt": ", monochrome, lowres, bad anatomy, worst quality, low quality",
+    "image_exps": 
+    [
+        {
+            "prompt": "woman",
+            "image_path": "1.jpg",
+            "exp_name": "1"
+        },
+        {
+            "prompt": "woman",
+            "image_path": "2.jpg",
+            "exp_name": "2"
+        },
+        {
+            "prompt": "woman",
+            "image_path": "3.jpg",
+            "exp_name": "3"
+        },
+        {
+            "prompt": "woman",
+            "image_path": "4.jpg",
+            "exp_name": "4"
+        },
+        {
+            "prompt": "woman",
+            "image_path": "5.jpg",
+            "exp_name": "5"
+        },
+        {
+            "prompt": "woman",
+            "image_path": "6.jpg",
+            "exp_name": "6"
+        },
+        {
+            "prompt": "woman",
+            "image_path": "7.jpg",
+            "exp_name": "7"
+        },
+        {
+            "prompt": "woman",
+            "image_path": "8.jpg",
+            "exp_name": "8"
+        },
+        {
+            "prompt": "woman",
+            "image_path": "9.jpg",
+            "exp_name": "9"
+        },
+        {
+            "prompt": "woman",
+            "image_path": "9.jpg",
+            "exp_name": "9"
+        },
+        {
+            "prompt": "woman",
+            "image_path": "10.jpg",
+            "exp_name": "10"
+        },
+        {
+            "prompt": "woman",
+            "image_path": "11.jpg",
+            "exp_name": "11"
+        },
+        {
+            "prompt": "woman",
+            "image_path": "12.jpg",
+            "exp_name": "12"
+        },
+        {
+            "prompt": "woman",
+            "image_path": "13.jpg",
+            "exp_name": "13"
+        },
+        {
+            "prompt": "woman",
+            "image_path": "14.jpg",
+            "exp_name": "14"
+        },
+        {
+            "prompt": "woman",
+            "image_path": "15.jpg",
+            "exp_name": "15"
+        },
+        {
+            "prompt": "woman",
+            "image_path": "16.jpg",
+            "exp_name": "16"
+        },
+        {
+            "prompt": "woman",
+            "image_path": "17.jpg",
+            "exp_name": "17"
+        },
+        {
+            "prompt": "woman",
+            "image_path": "18.jpg",
+            "exp_name": "18"
+        },
+        {
+            "prompt": "woman",
+            "image_path": "19.jpg",
+            "exp_name": "19"
+        },
+        {
+            "prompt": "woman",
+            "image_path": "20.jpg",
+            "exp_name": "20"
+        },
+        {
+            "prompt": "woman",
+            "image_path": "21.jpg",
+            "exp_name": "21"
+        },
+        {
+            "prompt": "woman",
+            "image_path": "22.jpg",
+            "exp_name": "22"
+        },
+        {
+            "prompt": "woman",
+            "image_path": "23.jpg",
+            "exp_name": "23"
+        },
+        {
+            "prompt": "woman",
+            "image_path": "24.jpg",
+            "exp_name": "24"
+        },
+        {
+            "prompt": "woman",
+            "image_path": "25.jpg",
+            "exp_name": "25"
+        },
+        {
+            "prompt": "woman",
+            "image_path": "26.jpg",
+            "exp_name": "26"
+        },
+        {
+            "prompt": "woman",
+            "image_path": "27.jpg",
+            "exp_name": "27"
+        },
+        {
+            "prompt": "woman",
+            "image_path": "28.jpg",
+            "exp_name": "28"
+        },
+        {
+            "prompt": "woman",
+            "image_path": "29.jpg",
+            "exp_name": "29"
+        },
+        {
+            "prompt": "woman",
+            "image_path": "30.jpg",
+            "exp_name": "30"
+        },
+        {
+            "prompt": "woman",
+            "image_path": "31.jpg",
+            "exp_name": "31"
+        },
+        {
+            "prompt": "fox",
+            "image_path": "32.jpg",
+            "exp_name": "32"
+        }
+    ]
+}

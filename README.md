@@ -21,6 +21,15 @@ pip3 install torch torchvision torchaudio --index-url https://download.pytorch.o
 pip install -r requirements.txt
 conda install xformers -c xformers
 ```
+
+and-mill:
+DO THIS INSTEAD:
+```
+conda create -n rival python=3.9.16
+conda activate rival
+conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia
+pip install -r requirements.txt
+```
 #### The usage of hyper-params
 All applications have a config file for inference. The following shows a brief explanation of some key parameters.
 ```json
