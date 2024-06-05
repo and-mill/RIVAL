@@ -1,5 +1,5 @@
 {
-    "image_root": "assets/images/references_0",
+    "image_root": "assets/images/references/picasso",
     "prompt_postfix": ", best quality, extremely detailed",
     "neg_prompt": ", monochrome, lowres, bad anatomy, worst quality, low quality",
     "image_exps": 
